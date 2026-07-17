@@ -3,7 +3,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 import pandas as pd
 import mlflow
+import dagshub
 df = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/refs/heads/master/diabetes.csv")
+
+mlflow.set_tracking_uri('https://dagshub.com/jaymavani16/mlflow-diabetes-practice.mlflow')
+
+dagshub.init(repo_owner='jaymavani16', repo_name='mlflow-diabetes-practice', mlflow=True)
+
 
 # splitting data into features and train, test data
 X = df.drop('Outcome',axis=1)
@@ -18,13 +24,13 @@ rf = RandomForestClassifier(random_state=42)
 # defining parameter grid and grid search cv
 param_grid = {
     "n_estimators" : [10,50,100],
-    "max_depth" : [None,10,15,25]
+    "max_depth" : [None,10,15,25,35]
     }
 
 # Applying grid search CV
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, n_jobs=-1, cv=5, verbose=2)
 
-mlflow.set_experiment('diabetes-prediction')
+mlflow.set_experiment('diabetes-prediction_cv')
 with mlflow.start_run(run_name='grid_search') as parent:
     grid_search.fit(X_train, y_train)
 
