@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/737e77bdbd084f178c301de93dcc5c08/artifacts
+end_time: 1747722620191
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 737e77bdbd084f178c301de93dcc5c08
+run_name: overjoyed-fowl-380
+run_uuid: 737e77bdbd084f178c301de93dcc5c08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747722620106
+status: 3
+tags: []
+user_id: jayma

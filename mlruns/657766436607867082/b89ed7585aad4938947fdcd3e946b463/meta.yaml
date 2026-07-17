@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/b89ed7585aad4938947fdcd3e946b463/artifacts
+end_time: 1747726833971
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: b89ed7585aad4938947fdcd3e946b463
+run_name: rebellious-roo-81
+run_uuid: b89ed7585aad4938947fdcd3e946b463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726833854
+status: 3
+tags: []
+user_id: jayma

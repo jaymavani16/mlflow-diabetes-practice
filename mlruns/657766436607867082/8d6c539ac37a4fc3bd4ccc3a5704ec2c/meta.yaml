@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/8d6c539ac37a4fc3bd4ccc3a5704ec2c/artifacts
+end_time: 1747727014001
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 8d6c539ac37a4fc3bd4ccc3a5704ec2c
+run_name: valuable-fowl-19
+run_uuid: 8d6c539ac37a4fc3bd4ccc3a5704ec2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747727013898
+status: 3
+tags: []
+user_id: jayma

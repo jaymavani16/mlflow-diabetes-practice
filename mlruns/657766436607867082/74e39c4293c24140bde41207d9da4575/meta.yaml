@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/74e39c4293c24140bde41207d9da4575/artifacts
+end_time: 1747726835019
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 74e39c4293c24140bde41207d9da4575
+run_name: dazzling-lynx-901
+run_uuid: 74e39c4293c24140bde41207d9da4575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726834926
+status: 3
+tags: []
+user_id: jayma

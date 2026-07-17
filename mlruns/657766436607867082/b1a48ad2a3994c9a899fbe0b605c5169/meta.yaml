@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/b1a48ad2a3994c9a899fbe0b605c5169/artifacts
+end_time: 1747726834320
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: b1a48ad2a3994c9a899fbe0b605c5169
+run_name: incongruous-loon-435
+run_uuid: b1a48ad2a3994c9a899fbe0b605c5169
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726834209
+status: 3
+tags: []
+user_id: jayma

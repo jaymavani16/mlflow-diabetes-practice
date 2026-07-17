@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/78801c873ca3480599a568eba032f172/artifacts
+end_time: 1747726835238
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 78801c873ca3480599a568eba032f172
+run_name: abrasive-bass-871
+run_uuid: 78801c873ca3480599a568eba032f172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726835130
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/529954e761b74151b37a80d7239dfe26/artifacts
+end_time: 1747727014599
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 529954e761b74151b37a80d7239dfe26
+run_name: welcoming-hound-55
+run_uuid: 529954e761b74151b37a80d7239dfe26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747727014476
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/ea560d17d2c346ac9bddd54234f77465/artifacts
+deleted_time: 1747726420655
+end_time: 1747725599454
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: ea560d17d2c346ac9bddd54234f77465
+run_name: resilient-chimp-266
+run_uuid: ea560d17d2c346ac9bddd54234f77465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725599366
+status: 3
+tags: []
+user_id: jayma

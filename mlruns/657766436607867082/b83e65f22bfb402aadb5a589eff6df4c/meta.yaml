@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/b83e65f22bfb402aadb5a589eff6df4c/artifacts
+deleted_time: 1747726420692
+end_time: 1747725599005
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: b83e65f22bfb402aadb5a589eff6df4c
+run_name: sassy-koi-679
+run_uuid: b83e65f22bfb402aadb5a589eff6df4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725598920
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/8047bf1cae434932b22dc759c9958ffb/artifacts
+end_time: 1747727014349
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 8047bf1cae434932b22dc759c9958ffb
+run_name: skillful-perch-815
+run_uuid: 8047bf1cae434932b22dc759c9958ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747727014236
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/9f6497ff57f9432795fe9b635263ddac/artifacts
+deleted_time: 1747726420676
+end_time: 1747725598915
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: 9f6497ff57f9432795fe9b635263ddac
+run_name: righteous-doe-373
+run_uuid: 9f6497ff57f9432795fe9b635263ddac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725598814
+status: 3
+tags: []
+user_id: jayma

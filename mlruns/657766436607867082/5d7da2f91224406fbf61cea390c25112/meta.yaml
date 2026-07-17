@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/5d7da2f91224406fbf61cea390c25112/artifacts
+end_time: 1747721930664
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 5d7da2f91224406fbf61cea390c25112
+run_name: dashing-duck-733
+run_uuid: 5d7da2f91224406fbf61cea390c25112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747721918230
+status: 3
+tags: []
+user_id: jayma

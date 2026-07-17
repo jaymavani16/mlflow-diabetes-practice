@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/ab7167b513984529b5fcc53fc4cc80ea/artifacts
+end_time: 1747726835120
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: ab7167b513984529b5fcc53fc4cc80ea
+run_name: receptive-horse-903
+run_uuid: ab7167b513984529b5fcc53fc4cc80ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726835024
+status: 3
+tags: []
+user_id: jayma

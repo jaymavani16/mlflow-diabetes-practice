@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/2bdd2b46e4164d20ad75d61243d8b351/artifacts
+end_time: 1747722621181
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 2bdd2b46e4164d20ad75d61243d8b351
+run_name: learned-tern-64
+run_uuid: 2bdd2b46e4164d20ad75d61243d8b351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747722621097
+status: 3
+tags: []
+user_id: jayma

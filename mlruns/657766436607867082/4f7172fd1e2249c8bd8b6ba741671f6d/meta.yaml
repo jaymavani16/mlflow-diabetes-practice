@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/4f7172fd1e2249c8bd8b6ba741671f6d/artifacts
+deleted_time: 1747726420669
+end_time: 1747725599272
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: 4f7172fd1e2249c8bd8b6ba741671f6d
+run_name: enchanting-jay-668
+run_uuid: 4f7172fd1e2249c8bd8b6ba741671f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725599196
+status: 3
+tags: []
+user_id: jayma

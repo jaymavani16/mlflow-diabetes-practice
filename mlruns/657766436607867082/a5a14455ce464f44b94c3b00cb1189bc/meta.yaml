@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/a5a14455ce464f44b94c3b00cb1189bc/artifacts
+end_time: 1747726457835
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: a5a14455ce464f44b94c3b00cb1189bc
+run_name: efficient-loon-901
+run_uuid: a5a14455ce464f44b94c3b00cb1189bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726457680
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/f13acf06eb70459eb11bc4d873d55db4/artifacts
+deleted_time: 1747726393062
+end_time: 1747725606252
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: f13acf06eb70459eb11bc4d873d55db4
+run_name: grid_search
+run_uuid: f13acf06eb70459eb11bc4d873d55db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725593694
+status: 3
+tags: []
+user_id: jayma

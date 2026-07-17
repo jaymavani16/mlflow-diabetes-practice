@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/0a9c57ae8c554c5c906660922fc90cb2/artifacts
+deleted_time: 1747726420653
+end_time: 1747725599552
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: 0a9c57ae8c554c5c906660922fc90cb2
+run_name: valuable-stoat-454
+run_uuid: 0a9c57ae8c554c5c906660922fc90cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725599458
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/0b9f55bd242140638077cf49cddb6762/artifacts
+end_time: 1747727013891
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 0b9f55bd242140638077cf49cddb6762
+run_name: nimble-toad-450
+run_uuid: 0b9f55bd242140638077cf49cddb6762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747727013797
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/663ff5bfa8df4ab7965c13f319866d1c/artifacts
+end_time: 1747722621093
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 663ff5bfa8df4ab7965c13f319866d1c
+run_name: amazing-shad-782
+run_uuid: 663ff5bfa8df4ab7965c13f319866d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747722620998
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/09d9b01374e946eb9aa0af208d5f8c0f/artifacts
+end_time: 1747726456798
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 09d9b01374e946eb9aa0af208d5f8c0f
+run_name: tasteful-ox-158
+run_uuid: 09d9b01374e946eb9aa0af208d5f8c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726456661
+status: 3
+tags: []
+user_id: jayma

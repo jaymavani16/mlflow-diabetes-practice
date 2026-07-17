@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/6c724f9c2bfe4f02871481f4d15aae1b/artifacts
+deleted_time: 1747726420674
+end_time: 1747725599191
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: 6c724f9c2bfe4f02871481f4d15aae1b
+run_name: polite-flea-453
+run_uuid: 6c724f9c2bfe4f02871481f4d15aae1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725599109
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/f3d015e5fb204d20b29d011dda86500c/artifacts
+end_time: 1747726834576
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: f3d015e5fb204d20b29d011dda86500c
+run_name: victorious-perch-181
+run_uuid: f3d015e5fb204d20b29d011dda86500c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747726834451
+status: 3
+tags: []
+user_id: jayma

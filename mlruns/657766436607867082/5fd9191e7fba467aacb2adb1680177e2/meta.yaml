@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/5fd9191e7fba467aacb2adb1680177e2/artifacts
+end_time: 1747727014927
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 5fd9191e7fba467aacb2adb1680177e2
+run_name: intrigued-skink-823
+run_uuid: 5fd9191e7fba467aacb2adb1680177e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747727014825
+status: 3
+tags: []
+user_id: jayma

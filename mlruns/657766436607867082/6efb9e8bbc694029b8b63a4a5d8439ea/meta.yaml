@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/6efb9e8bbc694029b8b63a4a5d8439ea/artifacts
+end_time: 1747727013674
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: 6efb9e8bbc694029b8b63a4a5d8439ea
+run_name: youthful-colt-708
+run_uuid: 6efb9e8bbc694029b8b63a4a5d8439ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747727013559
+status: 3
+tags: []
+user_id: jayma

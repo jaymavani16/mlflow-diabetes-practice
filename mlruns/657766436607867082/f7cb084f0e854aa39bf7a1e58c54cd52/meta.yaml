@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/f7cb084f0e854aa39bf7a1e58c54cd52/artifacts
+end_time: 1747722620697
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: active
+run_id: f7cb084f0e854aa39bf7a1e58c54cd52
+run_name: charming-mule-30
+run_uuid: f7cb084f0e854aa39bf7a1e58c54cd52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747722620617
+status: 3
+tags: []
+user_id: jayma

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/jayma/Desktop/mlflow-diabetes-practice/mlruns/657766436607867082/38f6b35c47544951a7a585519bc79469/artifacts
+deleted_time: 1747726420654
+end_time: 1747725599710
+entry_point_name: ''
+experiment_id: '657766436607867082'
+lifecycle_stage: deleted
+run_id: 38f6b35c47544951a7a585519bc79469
+run_name: nervous-midge-782
+run_uuid: 38f6b35c47544951a7a585519bc79469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747725599641
+status: 3
+tags: []
+user_id: jayma
